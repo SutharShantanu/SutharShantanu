@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shantanu</h1>
 <h3 align="center">A Passionate Computer Science Student from India</h3>
 
-<img src="">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sutharshantanu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sutharshantanu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sutharshantanu7" target="blank"><img src="https://img.shields.io/twitter/follow/sutharshantanu7?logo=twitter&style=for-the-badge" alt="sutharshantanu7" /></a> </p>
