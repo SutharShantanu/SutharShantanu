@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="SVG/Hand.svg">, I'm Shantanu</h1>
 <h3 align="center">A Passionate Computer Science Student from India</h3>
 
-<p><img src="Images/Anime Sunset.jpeg"></p>
+<!-- <p><img src="Images/Anime Sunset.jpeg" ></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sutharshantanu&label=Profile%20views&color=D36B00&style=for-the-badge" alt="sutharshantanu" /> </p>
 
