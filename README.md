@@ -17,16 +17,13 @@ Here are some ideas to get you started:
 
 <!-- <p><img src="Images/Anime Sunset.jpeg" ></p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sutharshantanu&label=Profile%20views&color=8e24aa&style=for-the-badge" alt="sutharshantanu" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sutharshantanu7" target="blank"><img src="https://img.shields.io/twitter/follow/sutharshantanu7?logo=twitter&color=EC4646&style=for-the-badge" alt="sutharshantanu7" /></a> </p>
-
 <p align="center">
-
+    <a href="https://twitter.com/sutharshantanu7" target="blank"><img src="https://img.shields.io/twitter/follow/sutharshantanu7?logo=twitter&color=EC4646&style=for-the-badge" alt="sutharshantanu7" /></a>
   <a href="https://github.com/sutharshantanu?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sutharshantanu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/sutharshantanu?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sutharshantanu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img src="https://komarev.com/ghpvc/?username=sutharshantanu&label=Profile%20views&color=8e24aa&style=for-the-badge" alt="sutharshantanu" />
 </p>
 
 - <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
