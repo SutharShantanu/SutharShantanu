@@ -85,8 +85,8 @@ Here are some ideas to get you started:
 
 <p>
 
-<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/
-GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/
+GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
 
 </p>
 
