@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
 
-- <img width="15px" src="https://avatars.githubusercontent.com/u/61222534?s=200&v=4" alt="Masai Icon" /> I’m a Student at <a href="https://www.linkedin.com/in/shantanu-suthar-8347031ab/">**Masai**</a>
+- <img width="15px" src="https://avatars.githubusercontent.com/u/61222534?s=200&v=4" alt="Masai Icon" /> I’m a Student at <a href="https://www.linkedin.com/school/masai-school/">**Masai**</a>
 
 - <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/shantanu-suthar-8347031ab/">**Shantanu**</a>
 
@@ -88,7 +88,6 @@ Here are some ideas to get you started:
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/
 GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 
-
 </p>
 
 ### 💻 Software and tools :
@@ -100,17 +99,20 @@ GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 
 </p>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharshantanu&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"/>
 
+</p>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sutharshantanu&layout=compact"/> -->
 
+<p>
 <a href="https://github.com/SutharShantanu/git_practice_assignmnet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=git_practice_assignmnet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=git_practice_assignmnet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
 
 </a>
 
 <a href="https://github.com/SutharShantanu/JS101_Learning_Javascript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=JS101_Learning_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=JS101_Learning_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
 </a>
-
+</p>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sutharshantanu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
