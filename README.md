@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 * 😄 Pronouns: ...
 * ⚡ Fun fact: ...
 -->
-# Hi👋, I'm Shantanu
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shantanu
 
 <div align="left">
 <a href="https://app.daily.dev/SutharShantanu"><img align="right" src="https://api.daily.dev/devcards/baf3791b171a4fadb1a3eda1053d50ea.png?r=hxu" width="280" alt="Shantanu's Dev Card"/></a>
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sutharshantanu's streak" src="https://streak-stats.demolab.com/?user=sutharshantanu&theme=monokai-metallian&hide_border=true"/>
   </a>
   <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" alt="sutharshantanu" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" alt="sutharshantanu" />
   </a>
 </div>
 
@@ -110,7 +110,7 @@ GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 
 </p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharshantanu&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"/>
+<a href="https://github.com/SutharShantanu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharshantanu&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"/>
 
 </p>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sutharshantanu&layout=compact"/> -->
@@ -129,4 +129,11 @@ GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=JS101_Learning_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
 </a>
 </p>
+
+<p align="center">
+<a href="https://github.com/SutharShantanu"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SutharShantanu&theme=dracula" />
+</span></a> </p>
+
+
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sutharshantanu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
