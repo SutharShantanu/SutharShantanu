@@ -72,7 +72,7 @@ Here are some ideas to get you started:
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sutharshantanu's streak" src="https://streak-stats.demolab.com/?user=sutharshantanu&theme=monokai-metallian&hide_border=true"/>
   </a>
   <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" alt="sutharshantanu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" alt="sutharshantanu" />
   </a>
 </div>
 
