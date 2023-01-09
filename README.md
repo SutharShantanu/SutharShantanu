@@ -12,12 +12,16 @@ Here are some ideas to get you started:
 * 😄 Pronouns: ...
 * ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi👋, I'm Shantanu</h1>
-<h3 align="center">A Passionate Computer Science Student from India</h3>
+# Hi👋, I'm Shantanu
+
+<div align="left">
+<a href="https://app.daily.dev/SutharShantanu"><img align="right" src="https://api.daily.dev/devcards/baf3791b171a4fadb1a3eda1053d50ea.png?r=hxu" width="280" alt="Shantanu's Dev Card"/></a>
+    
+## A Passionate Computer Science Student from India
 
 <!-- <p><img src="Images/Anime Sunset.jpeg" ></p> -->
 
-<p align="center">
+<p align="left">
     <a href="https://twitter.com/sutharshantanu7" target="blank"><img src="https://img.shields.io/twitter/follow/sutharshantanu7?logo=twitter&color=EC4646&style=for-the-badge" alt="sutharshantanu7" /></a>
   <a href="https://github.com/sutharshantanu?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sutharshantanu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -26,6 +30,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=sutharshantanu&label=Profile%20views&color=8e24aa&style=for-the-badge" alt="sutharshantanu" />
     <img src="https://img.shields.io/github/directory-file-count/sutharshantanu/JS101_Learning_Javascript?style=for-the-badge" alt="total Repo Count">
 </p>
+</div>
 
 - <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
 
@@ -62,14 +67,14 @@ Here are some ideas to get you started:
 
 ## 🔥 Streak stats :
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/sutharshantanu/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sutharshantanu's streak" src="https://streak-stats.demolab.com/?user=sutharshantanu&theme=monokai-metallian&hide_border=true"/>
   </a>
   <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" alt="sutharshantanu" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" alt="sutharshantanu" />
   </a>
-</p>
+</div>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&count_private=true) -->
 
@@ -115,13 +120,13 @@ GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=git_practice_assignmnet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
 </a>
 <a href="https://github.com/SutharShantanu/-absurd-stage-2740">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-absurd-stage-2740&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-absurd-stage-2740&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
 </a>
 <a href="https://github.com/SutharShantanu/-fit-hook-8952">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-fit-hook-8952&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
 </a>
 <a href="https://github.com/SutharShantanu/JS101_Learning_Javascript">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=JS101_Learning_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=JS101_Learning_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
 </a>
 </p>
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sutharshantanu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
