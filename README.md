@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="left">
 <a href="https://app.daily.dev/SutharShantanu"><img align="right" src="https://api.daily.dev/devcards/baf3791b171a4fadb1a3eda1053d50ea.png?r=hxu" width="280" alt="Shantanu's Dev Card"/></a>
     
-## A Passionate Computer Science Student from India
+## Aspiring MERN Developer
 
 <!-- <p><img src="Images/Anime Sunset.jpeg" ></p> -->
 
