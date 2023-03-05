@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 * 😄 Pronouns: ...
 * ⚡ Fun fact: ...
 -->
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shantanu
+<!-- # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shantanu -->
 
-<div align="left">
-<a href="https://app.daily.dev/SutharShantanu"><img align="right" src="https://api.daily.dev/devcards/baf3791b171a4fadb1a3eda1053d50ea.png?r=hxu" width="280" alt="Shantanu's Dev Card"/></a>
+<!-- <div align="left">
+<a href="https://app.daily.dev/SutharShantanu"><img align="right" src="https://api.daily.dev/devcards/baf3791b171a4fadb1a3eda1053d50ea.png?r=hxu" width="280" alt="Shantanu's Dev Card"/></a> -->
     
-## Aspiring MERN Developer
+<!-- ## Aspiring MERN Developer -->
 
 <!-- <p><img src="Images/Anime Sunset.jpeg" ></p> -->
 
-<p align="left">
+<!--<p align="left">
     <a href="https://twitter.com/sutharshantanu7" target="blank"><img src="https://img.shields.io/twitter/follow/sutharshantanu7?logo=twitter&color=EC4646&style=for-the-badge" alt="sutharshantanu7" /></a>
   <a href="https://github.com/sutharshantanu?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sutharshantanu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -40,22 +40,17 @@ Here are some ideas to get you started:
 ## Connect with me:
 
 <p align="left">
-<!-- <a href="https://codepen.io/sutharshantanu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sutharshantanu7" height="30" width="40" /></a>
+ <a href="https://codepen.io/sutharshantanu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sutharshantanu7" height="30" width="40" /></a>
 <a href="https://twitter.com/sutharshantanu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sutharshantanu7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shantanu-suthar-8347031ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shantanu-suthar-8347031ab/" height="30" width="40" /></a>
 <a href="https://fb.com/sutharshantanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sutharshantanu" height="30" width="40" /></a>
 <a href="https://instagram.com/shantanu.suthar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shantanu.suthar/" height="30" width="40" /></a> -->
-    
-    <a href="https://linkedin.com/in/shantanu-suthar-8347031ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantanu-suthar-8347031ab" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sutharshantanu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sutharshantanu7" height="30" width="40" /></a>
-
-    
 </p>
 
-## 🎶 I'm listening to:
+<!-- ## 🎶 I'm listening to: -->
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w63n3ymolwzxiers3c6kuwsisi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31w63n3ymolwzxiers3c6kuwsisi&redirect=true) -->
-
+<!-- 
 ![Recent 3 listened song](https://spotify-recently-played-readme.vercel.app/api?user=31w63n3ymolwzxiers3c6kuwsisi&count=3)
 
 ## 🏆 Trophies :
@@ -94,7 +89,7 @@ Here are some ideas to get you started:
   <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats" alt="sutharshantanu" />
   </a>
-</div>
+</div> -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&count_private=true) -->
 
@@ -108,7 +103,7 @@ Here are some ideas to get you started:
 GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 
 </p> -->
-
+<!-- 
 ## 📈 GitHub Stats :
 
 <p>
@@ -121,9 +116,9 @@ GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 <p align="center">
 <a href="https://github.com/SutharShantanu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharshantanu&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"/>
 
-</p>
+</p> -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sutharshantanu&layout=compact"/> -->
-
+<!-- 
 <p>
 <a href="https://github.com/SutharShantanu/git_practice_assignmnet">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=git_practice_assignmnet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
@@ -142,7 +137,51 @@ GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 <p align="center">
 <a href="https://github.com/SutharShantanu"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SutharShantanu&theme=dracula" />
-</span></a> </p>
+</span></a>
+</p> -->
 
 
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sutharshantanu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
+
+
+
+<h1 align="center">Hi 👋, I'm Shantnau</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sutharshantanu&label=Profile%20views&color=0e75b6&style=flat" alt="sutharshantanu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sutharshantanu" alt="sutharshantanu" /></a> </p>
+
+- 🌱 I’m currently learning **React,NodeJS**
+
+- 💬 Ask me about **javaScript,HTML,CSS,DSA.**
+
+- 📫 How to reach me **shantanusut2000@gmail.com**
+
+
+- My portfolio  https://sutharshantanu.github.io/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shantanu-suthar-8347031ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantanu-suthar-8347031ab" height="30" width="40" /></a>
+<a href="https://codesandbox.com/sutharshantanu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sutharshantanu7" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sutharshantanu&show_icons=true&locale=en&layout=compact" alt="sutharshantanu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en" alt="sutharshantanu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sutharshantanu&" alt="sutharshantanu" /></p>
