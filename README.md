@@ -28,17 +28,14 @@ Here are some ideas to get you started:
   <a href="https://github.com/sutharshantanu?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sutharshantanu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <img src="https://komarev.com/ghpvc/?username=sutharshantanu&label=Profile%20views&color=8e24aa&style=for-the-badge" alt="sutharshantanu" />
-    <img src="https://img.shields.io/github/directory-file-count/sutharshantanu/JS101_Learning_Javascript?style=for-the-badge" alt="total Repo Count">
 </p>
 </div>
 
 - <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
-
 - <img width="15px" src="https://avatars.githubusercontent.com/u/61222534?s=200&v=4" alt="Masai Icon" /> I’m a Student at <a href="https://www.linkedin.com/school/masai-school/">**Masai**</a>
-
 - <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/shantanu-suthar-8347031ab/">**Shantanu**</a>
-
 - <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **Shantanusut2000@Gmail.com**
+- <img width="13px" src="https://cdn-icons-png.flaticon.com/512/4365/4365934.png" alt="Portfolio Icon" /> My portfolio **<a>https://sutharshantanu.github.io</a>**
 
 ## Connect with me:
 
@@ -50,46 +47,53 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/shantanu.suthar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shantanu.suthar/" height="30" width="40" /></a>
 </p>
 
-## I'm listening to:
+## 🎶 I'm listening to:
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w63n3ymolwzxiers3c6kuwsisi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31w63n3ymolwzxiers3c6kuwsisi&redirect=true) -->
 
 ![Recent 3 listened song](https://spotify-recently-played-readme.vercel.app/api?user=31w63n3ymolwzxiers3c6kuwsisi&count=3)
 
-## Languages and Tools:
+## 🏆 Trophies :
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sutharshantanu" alt="suhail3535" /></a> </p>
+
+
+## 🔣 Languages and Tools:
 
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
+<a href="#"><img alt="Json Server" src="https://img.shields.io/badge/json%20server-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
+<a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
+<a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
+<a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href="#"><img alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a href="#"><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></a>
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+>
 
 ## 🔥 Streak stats :
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/sutharshantanu/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sutharshantanu's streak" src="https://streak-stats.demolab.com/?user=sutharshantanu&theme=monokai-metallian&hide_border=true"/>
+    <img alt="sutharshantanu's streak" src="https://streak-stats.demolab.com/?user=sutharshantanu&theme=monokai-metallian&hide_border=true"/>
   </a>
   <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" alt="sutharshantanu" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats" alt="sutharshantanu" />
   </a>
 </div>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&count_private=true) -->
 
 <!-- theme=tokyonight& -->
-
-## 🛠️ My favorite tools :
-
-### 👨‍💻 Programming and markup languages :
-
-<p>
-    <a href="https://github.com/search?q=user%sutharshantanu+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%sutharshantanu+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%sutharshantanu+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-
-</p>
 
 <!-- ### 🧰 Frameworks and libraries :
 
@@ -100,33 +104,33 @@ GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 
 </p> -->
 
-### 💻 Software and tools :
+## 📈 GitHub Stats :
 
 <p>
 
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white&style=for-the-badge"></a>
 </p>
+
 <p align="center">
-<a href="https://github.com/SutharShantanu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharshantanu&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"/>
+<a href="https://github.com/SutharShantanu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharshantanu&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"/>
 
 </p>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sutharshantanu&layout=compact"/> -->
 
 <p>
 <a href="https://github.com/SutharShantanu/git_practice_assignmnet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=git_practice_assignmnet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=git_practice_assignmnet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
 <a href="https://github.com/SutharShantanu/-absurd-stage-2740">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-absurd-stage-2740&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-absurd-stage-2740&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
 <a href="https://github.com/SutharShantanu/-fit-hook-8952">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-fit-hook-8952&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-fit-hook-8952&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
 <a href="https://github.com/SutharShantanu/JS101_Learning_Javascript">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=JS101_Learning_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=JS101_Learning_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
 </p>
 
