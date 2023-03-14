@@ -84,13 +84,13 @@ Here are some ideas to get you started:
 
 <div align="left">
   <a href="https://github.com/sutharshantanu/github-readme-streak-stats">
-  <img alt="sutharshantanu's streak" src="https://streak-stats.demolab.com/?user=sutharshantanu&theme=monokai-metallian&hide_border=true"/>
+  <img align="center" alt="sutharshantanu's streak" src="https://streak-stats.demolab.com/?user=sutharshantanu&theme=monokai-metallian&hide_border=true"/>
   </a>
   <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats" alt="sutharshantanu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats" alt="sutharshantanu" />
   </a>
   <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="sutharshantanu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="sutharshantanu" />
   </a>
 </div>
 <!--![Anurag's GitHub stats]() -->
