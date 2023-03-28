@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ## 🔥 Streak stats :
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/sutharshantanu/github-readme-streak-stats">
   <img align="center" alt="sutharshantanu's streak" src="https://streak-stats.demolab.com/?user=sutharshantanu&theme=monokai-metallian&hide_border=true"/>
   </a>
@@ -139,7 +139,7 @@ GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 </p>
 
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sutharshantanu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sutharshantanu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 
 
