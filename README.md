@@ -87,11 +87,11 @@ Here are some ideas to get you started:
   <img align="center" alt="sutharshantanu's streak" src="https://streak-stats.demolab.com/?user=sutharshantanu&theme=monokai-metallian&hide_border=true"/>
   </a>
   <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats" alt="sutharshantanu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats" alt="sutharshantanu" />
   </a>
-  <a href="#">
+<!--   <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="sutharshantanu" />
-  </a>
+  </a> -->
 </div>
 <!--![Anurag's GitHub stats]() -->
 
@@ -118,17 +118,19 @@ GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sutharshantanu&layout=compact"/> -->
 
 <p>
-<a href="https://github.com/SutharShantanu/-available-blood-5696">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-available-blood-5696&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+
+
+<a href="https://github.com/suhail3535/thinkable-slope-4107">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=thinkable-slope-4107&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
-<a href="https://github.com/SutharShantanu/-absurd-stage-2740">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-absurd-stage-2740&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+<a href="https://github.com/uzairansari11/native-order-609">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairansari11&repo=native-order-609&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+</a>
+<a href="https://github.com/SutharShantanu/-available-blood-5696">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-available-blood-5696&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
 <a href="https://github.com/SutharShantanu/-fit-hook-8952">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-fit-hook-8952&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-</a>
-<a href="https://github.com/SutharShantanu/JS101_Learning_Javascript">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=JS101_Learning_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-fit-hook-8952&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
 </p>
 
