@@ -55,7 +55,11 @@ Here are some ideas to get you started:
 
 ## 🏆 Trophies :
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sutharshantanu" alt="suhail3535" /></a> </p>
+<p align="center">
+    <div align=center>
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=sutharshantanu&theme=gitdimmed&column=7&margin-h=12&margin-w=5&no-bg=false&no-frame=true" alt="Trophys" />
+    </div>
+</p>
 
 
 ## 🔣 Languages and Tools:
@@ -73,8 +77,11 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="#"><img alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>    
+<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=black"></a>
+<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></a>
