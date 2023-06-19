@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--<p><img src="Images/Anime Sunset.jpeg" ></p>-->
 
 <p align="left">
-    <a href="https://twitter.com/sutharshantanu7" target="blank"><img src="https://img.shields.io/twitter/follow/sutharshantanu7?logo=twitter&color=EC4646&style=for-the-badge" alt="sutharshantanu7" /></a>
+
   <a href="https://github.com/sutharshantanu?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sutharshantanu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/sutharshantanu?tab=followers">
