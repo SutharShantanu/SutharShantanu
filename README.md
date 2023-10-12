@@ -91,6 +91,11 @@ Here are some ideas to get you started:
 ## 🔥 Streak stats :
 
 <div align="center">
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+</div>
+
+<div align="center">
   <a href="https://github.com/sutharshantanu/github-readme-streak-stats">
   <img align="center" alt="sutharshantanu's streak" src="https://streak-stats.demolab.com/?user=sutharshantanu&theme=monokai-metallian&hide_border=true"/>
   </a>
