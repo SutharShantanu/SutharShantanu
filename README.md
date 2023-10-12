@@ -91,8 +91,8 @@ Here are some ideas to get you started:
 ## 🔥 Streak stats :
 
 
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+    START_SECTION:waka
+    END_SECTION:waka
 
 
 <div align="center">
