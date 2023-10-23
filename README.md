@@ -91,13 +91,15 @@ Here are some ideas to get you started:
 ## 🔥 Streak stats :
 
 <!--START_SECTION:waka-->
+
 ```txt
-From: 25 July 2022 - To: 20 October 2023
+From: 25 July 2022 - To: 22 October 2023
 
-Total Time: 295 hrs 57 mins
+Total Time: 296 hrs 28 mins
 
-Other        268 hrs 26 mins >>>>>>>>>>>>>>>>>>>>>>>--   90.70 %
+Other        268 hrs 26 mins >>>>>>>>>>>>>>>>>>>>>>>--   90.54 %
 ```
+
 <!--END_SECTION:waka-->
 
 
