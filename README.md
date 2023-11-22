@@ -53,10 +53,7 @@ Here are some ideas to get you started:
  
 ![Recent 3 listened song](https://spotify-recently-played-readme.vercel.app/api?user=31w63n3ymolwzxiers3c6kuwsisi&count=3)
 
-## Stats testing:
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-
-## 🏆 Trophies :
+## 🏆 Trophies:
 
 <p align="center">
     <div align=center>
@@ -92,6 +89,7 @@ Here are some ideas to get you started:
 
 
 ## 🔥 Streak stats :
+<div align="center">
 
 <!--START_SECTION:waka-->
 
@@ -102,10 +100,10 @@ Total Time: 298 hrs 35 mins
 
 Other        268 hrs 26 mins >>>>>>>>>>>>>>>>>>>>>>---   89.90 %
 ```
-
 <!--END_SECTION:waka-->
 
-
+<!--<p align="right"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>-->
+</div>
 <div align="center">
   <a href="https://github.com/sutharshantanu/github-readme-streak-stats">
   <img align="center" alt="sutharshantanu's streak" src="https://streak-stats.demolab.com/?user=sutharshantanu&theme=monokai-metallian&hide_border=true"/>
