@@ -53,6 +53,9 @@ Here are some ideas to get you started:
  
 ![Recent 3 listened song](https://spotify-recently-played-readme.vercel.app/api?user=31w63n3ymolwzxiers3c6kuwsisi&count=3)
 
+## Stats testing:
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
 ## 🏆 Trophies :
 
 <p align="center">
