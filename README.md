@@ -94,11 +94,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2022 - To: 09 July 2025
+From: 25 July 2022 - To: 10 July 2025
 
-Total Time: 455 hrs 30 mins
+Total Time: 455 hrs 45 mins
 
-Other        425 hrs 10 mins >>>>>>>>>>>>>>>>>>>>>>>--   93.34 %
+Other        425 hrs 25 mins >>>>>>>>>>>>>>>>>>>>>>>--   93.34 %
 ```
 
 <!--END_SECTION:waka-->
