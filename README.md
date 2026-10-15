@@ -103,21 +103,33 @@ drwxr-xr-x  Papperfury      JavaScript, E-Commerce  --> Furniture e-commerce sto
 
 ---
 
+### 👾 `shantanu@terminal:~$ ./play-snake.sh`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SutharShantanu/SutharShantanu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SutharShantanu/SutharShantanu/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SutharShantanu/SutharShantanu/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 ### 📈 `shantanu@terminal:~$ ./fetch-metrics.sh`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sutharshantanu&bg_color=000000&color=22c55e&line=38bdf8&point=22c55e&area=true&area_color=0f172a&hide_border=true&custom_title=contribution+activity" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SutharShantanu&theme=github_dark" width="100%" />
 
 <br/>
 
 <table width="100%" border="0" cellspacing="4" cellpadding="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SutharShantanu&show_icons=true&theme=terminal&hide_border=true&bg_color=000000&text_color=38BDF8&title_color=22C55E&icon_color=22C55E" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SutharShantanu&show_icons=true&hide_border=true&bg_color=000000&text_color=38BDF8&title_color=22C55E&icon_color=22C55E&include_all_commits=true" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SutharShantanu&theme=dark&hide_border=true&background=000000&ring=22C55E&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=22C55E" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=SutharShantanu&theme=dark&hide_border=true&background=000000&ring=22C55E&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=22C55E&sideNums=22C55E&sideLabels=38BDF8&dates=64748B" width="100%" />
     </td>
   </tr>
 </table>
@@ -125,13 +137,23 @@ drwxr-xr-x  Papperfury      JavaScript, E-Commerce  --> Furniture e-commerce sto
 <table width="100%" border="0" cellspacing="4" cellpadding="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SutharShantanu&layout=compact&theme=terminal&hide_border=true&bg_color=000000&text_color=38BDF8&title_color=22C55E" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SutharShantanu&layout=compact&hide_border=true&bg_color=000000&text_color=38BDF8&title_color=22C55E&langs_count=8" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=sutharshantanu&theme=darkhub&no-frame=true&column=4&margin-w=6&margin-h=6&no-bg=true" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SutharShantanu&theme=github_dark" width="100%" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<details>
+  <summary>🕹️ <b>Detailed Telemetry (3D IsoCalendar, Coding Habits & Milestones)</b></summary>
+  <br/>
+  <div align="center">
+    <img src="./github-metrics.svg" alt="Detailed Metrics Telemetry" width="100%" />
+  </div>
+</details>
 
 </div>
 
