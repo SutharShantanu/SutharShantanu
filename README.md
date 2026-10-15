@@ -85,17 +85,17 @@ drwxr-xr-x  Papperfury      JavaScript, E-Commerce  --> Furniture e-commerce sto
 <!-- YOUTUBE-MUSIC:START -->
 ```text
 ▶  NOW PLAYING ON YOUTUBE MUSIC:
-[■■■■■■■■■■■■■■■■□□□□] 02:45 / 03:50
-🎵 Track  : Starboy (feat. Daft Punk)
-👤 Artist : The Weeknd
+[■■■■■■■■■■■■■■■■□□□□]
+🎵 Track  : Tera Mera Rishta - New Version (From "Awarapan 2")
+👤 Artist : Sayeed Quadri, Mustafa Zahid, Mithoon, Saaj Bhatt, 946K views
 💿 Source : YouTube Music (Live)
 
 📜 LAST 5 PLAYED TRACKS:
-1. 🎵 Blinding Lights — The Weeknd
-2. 🎵 Midnight City — M83
-3. 🎵 One More Time — Daft Punk
-4. 🎵 Resonance — HOME
-5. 🎵 Instant Crush — Daft Punk ft. Julian Casablancas
+1. 🎵 Labon Ko — Sayeed Quadri
+2. 🎵 Oonchi Oonchi Deewarein — Arijit Singh
+3. 🎵 Mehrama — Darshan Raval, Antara Mitra, Pritam, 1.6M views
+4. 🎵 Kitni Haseen Hogi — Arijit Singh, 39M views
+5. 🎵 Spy x Family「AMV」Cake By The Ocean — JocoBesT, 730K views
 ```
 <!-- YOUTUBE-MUSIC:END -->
 
